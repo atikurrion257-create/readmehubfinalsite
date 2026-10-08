@@ -279,3 +279,32 @@ No animation libraries. No carousels. All JS is documented in docs/08 with scope
 | Mega-menu | N/A | Not used by design |
 | Popups / motion effects / sticky (Pro) | N/A | Replaced by scoped CSS / not used |
 | Paid add-ons of any kind | N/A | Prohibited by brief |
+
+## 4.9 Provisional preview values (PROPOSED — decision gate still open)
+
+The static design preview in `/preview` renders the system with **provisional** values so the layout,
+theme parity, and signatures can be reviewed visually. These are PROPOSED and **have not passed the
+dual-theme contrast worksheet** (docs/05 §5.4). They are recorded here so the preview and the spec
+stay in sync; adoption requires the decision gate (docs/01 B3) to close with measured results.
+
+| Token | Provisional light | Provisional dark |
+| --- | --- | --- |
+| surface-page | `#F3F5F8` | `#141920` |
+| surface-raised | `#FFFFFF` | `#1C222B` |
+| surface-inset | `#EAEFF4` | `#10151B` |
+| surface-inverse | `#182230` | `#0D1219` |
+| text-primary | `#182230` | `#E9EEF4` |
+| text-muted | `#57616F` | `#A2ADBB` |
+| accent-primary | `#2B57D4` | `#8FAEFF` |
+| accent-commercial | `#A05A12` | `#E2A24C` |
+| border-subtle / border-strong | `#DCE2E9` / `#B9C2CC` | `#2A323D` / `#3D4854` |
+| focus-ring | `#2B57D4` | `#8FAEFF` |
+| status-success / warning / danger | `#1B6E45` / `#8A6200` / `#B33127` | `#5CC08D` / `#D9A441` / `#E5766B` |
+| Display/body font | system sans stack (preview only) | same |
+| Radius | 6 / 12 / 999 px | same |
+| Type scale | clamp display 2.25→3.5rem; h2 1.75; h3 1.375; h4 1.125; body 1.0625/1.65 | same |
+
+Preview status: `/preview` is a static HTML/CSS/JS rendering of the homepage map (docs/02 §2.4) for
+visual review only. It is **not** a WordPress/Elementor build, contains no fabricated product claims,
+and demonstrates the designed empty states ("Not yet recorded", "Verification due"). The production
+build follows the sequence in docs/09 and the copy-ready prompt in docs/12.
