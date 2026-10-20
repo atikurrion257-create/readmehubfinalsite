@@ -11,6 +11,24 @@ sections §0–§32), applied by the combined senior team (frontend UI/UX, visua
 architecture, Elementor native architecture, theme builder, information architecture, conversion UX,
 accessibility & responsive review, content architecture, verification / red-team review).
 
+## Live site (GitHub Pages — free hosting)
+
+**URL:** https://atikurrion257-create.github.io/readmehubfinalsite/
+
+The static design showcase (the homepage of the design system) lives at the repo root and is deployed
+automatically by the GitHub Actions workflow `.github/workflows/jekyll-gh-pages.yml` on `main` (free
+GitHub Pages, no paid services). Layout:
+
+```
+/                    index.html + assets/   ← published site (Pages root)
+/docs/               design specification (markdown; read on github.com)
+/404.html            branded not-found page
+/serve_site.py       local preview server (blocks .git/dotfiles): python3 serve_site.py [port]
+/.nojekyll           static publishing marker
+```
+
+Local preview: `python3 serve_site.py 4173` → http://localhost:4173 (the same root layout Pages serves).
+
 ## What this site is
 
 A decision gateway, not a blog: **Understand → Choose a problem → Explore evidence → Compare options →
