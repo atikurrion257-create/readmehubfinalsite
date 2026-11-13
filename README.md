@@ -95,3 +95,7 @@ All design deliverables live in [`docs/`](docs/):
 No runtime testing has been performed. Every acceptance test in docs/09 is **NOT RUN**. Nothing in this
 repository claims importability, visual fidelity, accessibility compliance, production readiness, audience
 validation, or revenue performance.
+
+## AI agent entry point
+
+Repository instructions for coding agents are in [`AGENTS.md`](AGENTS.md). The complete consolidated text of all repository Markdown documents is in [`AI_AGENT_CONTEXT.md`](AI_AGENT_CONTEXT.md), with source paths and SHA-256 checksums for each included document. Keep the consolidated context synchronized when Markdown sources change.
