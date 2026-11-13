@@ -1,0 +1,74 @@
+# ReadMeHub Complete Project Files
+
+This archive consolidates the ReadMeHub project files and supplied reference assets available in the current project context.
+
+## Folder guide
+- `01_Project_Documents/`: foundation, Elementor specification, homepage plan, corrections, and extracted 01–08 Claude project pack.
+- `02_Master_Prompts/`: master build, synthesis, research, and agent execution prompts.
+- `03_Elementor_and_Skills/`: Elementor/WordPress skills and toolkits.
+- `04_Design_References/`: supplied desktop/mobile screenshots, Stitch reference archive, and additional visual assets.
+- `05_Source_Archives/`: original ZIP files retained without modifying their contents.
+- `06_Additional_Project_Files/`: related pasted notes and connector/tool reference files.
+
+## Included files
+- `01_Project_Documents/ReadMeHub Research and Architecture Foundation.md` — 30,417 bytes — SHA-256 `676a3d9accf9d386ae29fa7f0f17d56787ae56a61a830f5b973b0110fa998d31`
+- `01_Project_Documents/ReadMeHub — Elementor Free-First Website Specification.md` — 84,787 bytes — SHA-256 `cb3fe055dea70a8b6471ccb0ad7aec3166559bcf2e6feb268bc309784388955f`
+- `01_Project_Documents/readmehub-homepage-plan.md` — 6,226 bytes — SHA-256 `7b932bf34a2ffb3d6107fcf676dfc6cad6d92aaa3e05a77b998beb3c9fe906ec`
+- `01_Project_Documents/readmehub-project-file-corrections.md` — 4,836 bytes — SHA-256 `e5f88e9c50c3850d2b43530d5b0f38fd33235b72db27967578cafd07595d30de`
+- `01_Project_Documents/Claude_Project_MD_Files/01_READMEHUB_PROJECT_CONTEXT.md` — 2,873 bytes — SHA-256 `364a40ff8cc8a2380a60985dcc42ea9d1721a59572a6f81774daa1fb940cfd4f`
+- `01_Project_Documents/Claude_Project_MD_Files/02_READMEHUB_DESIGN_SYSTEM.md` — 1,763 bytes — SHA-256 `393423fd992bd719b8f8e3bcf724e137239b545dab3dc20be3e0592502ad666d`
+- `01_Project_Documents/Claude_Project_MD_Files/03_ELEMENTOR_IMPLEMENTATION_RULES.md` — 2,360 bytes — SHA-256 `5957adda957797d00e2d8eda244192a40db2ec5630fd836ba131d605e62a06fe`
+- `01_Project_Documents/Claude_Project_MD_Files/04_WORDPRESS_ACF_CONTENT_MAP.md` — 2,195 bytes — SHA-256 `7f5333fc5e21eb63c71c9e460c1383108d0de4add881a150f6e64c6b4b786786`
+- `01_Project_Documents/Claude_Project_MD_Files/05_IMPLEMENTATION_LOG_AND_QA.md` — 2,464 bytes — SHA-256 `80a7dd3d53728432af4b7ef93ba3c94654f5e08a6d30c6030da8fb4bd03ac722`
+- `01_Project_Documents/Claude_Project_MD_Files/06_CLAUDE_PROJECT_INSTRUCTIONS.md` — 3,421 bytes — SHA-256 `cc72106ef3b991070f7eb6b702b96e4f32a5e65266f930bf3eb722a0ccd415aa`
+- `01_Project_Documents/Claude_Project_MD_Files/07_PER_SECTION_TASK_PROMPT.md` — 2,147 bytes — SHA-256 `5d5e217a9454ddc2d3032bb86c9e33fd8dd65d56b94c10c193576044bb050642`
+- `01_Project_Documents/Claude_Project_MD_Files/08_READMEHUB_PAGE_TEMPLATE_SCOPE.md` — 3,078 bytes — SHA-256 `47a10521b5d7a2bd7d05778efc0cfb18b929ef35a3e9bb3d4c7d685c2be4ff89`
+- `02_Master_Prompts/ReadMeHub_Master_Website_Build_Prompt.md` — 37,900 bytes — SHA-256 `8bc59ec3b26dff20e28bcebbef618b971dfbc280a81963910601487739aa54e1`
+- `02_Master_Prompts/ReadMeHub_Master_Website_Build_Prompt(1).md` — 37,900 bytes — SHA-256 `8bc59ec3b26dff20e28bcebbef618b971dfbc280a81963910601487739aa54e1`
+- `02_Master_Prompts/ReadMeHub_Complete_Remaining_Website_Build_Prompt.md` — 23,961 bytes — SHA-256 `7c2441e48024d6261e106efe5de3963735403895111bd9b13b345f0b3159f40a`
+- `02_Master_Prompts/ReadMeHub_2026_Claude_Final_Synthesis_Prompt.md` — 5,929 bytes — SHA-256 `9fd8074b3dae6e647752172e8c1e6979d83ffa3aeee98d10e3f889f43583feb0`
+- `02_Master_Prompts/ReadMeHub_2026_Masterstroke_Research_Prompt.md` — 22,590 bytes — SHA-256 `1f3d230f5b58ad4caca954adcbba7a7ec8676ca2c44a7444d8e2a48cb8be7f8d`
+- `02_Master_Prompts/Manus_AI_ReadMeHub_Full_Elementor_Build_Master_Prompt.md` — 34,840 bytes — SHA-256 `d11046a730e79ab5d3f736f434922875d844f235a252b8a044f404f3fdea8f14`
+- `02_Master_Prompts/Manus_AI_Native_Elementor_Transfer_Ready_Build_Prompt.md` — 19,954 bytes — SHA-256 `0d90e094cce8f36d25ad82a00542295f2381bf5747fefea7425a00445af347a3`
+- `02_Master_Prompts/ReadMeHub_ChatGPT_Deep_Research_Execution_Mode.txt` — 690 bytes — SHA-256 `3e28e2d86d9ac49864b2be018ff8069fee3b9397cd3007bde5f3217801e46116`
+- `02_Master_Prompts/ReadMeHub_Claude_Sonnet_5_Independent_Execution_Mode.txt` — 847 bytes — SHA-256 `1c372c6765c861c158fa69fbd71c58cdd2730a4d8c0db49dffa1deca6ed67f54`
+- `02_Master_Prompts/ReadMeHub_Gemini_Deep_Research_Execution_Mode.txt` — 702 bytes — SHA-256 `0fcb3e208c4d1d2cabc0c5696a45848ff8ce4b840de15b421ba37540b5909924`
+- `02_Master_Prompts/ReadMeHub_Perplexity_Deep_Research_Execution_Mode.txt` — 762 bytes — SHA-256 `ccb891d4012d1836a389a103654a852238bd65f5870fa8660e324e968644809e`
+- `03_Elementor_and_Skills/wp-elementor-skills-toolkit.zip` — 86,688 bytes — SHA-256 `b66658b97436ee001906812e3f9740fe2815f460d75a47b51385378a23ba7496`
+- `03_Elementor_and_Skills/elementor-native-widget-based-website-builder (2).zip` — 9,638 bytes — SHA-256 `922ee99cf18d93f54d242e63180bec2bff8a0b53fa065e811a8657ec0bae0360`
+- `03_Elementor_and_Skills/wordpress-elementor-skills-fixes-organized.zip` — 13,011 bytes — SHA-256 `95bdb808c9c67d7192a492220e43744a5aa963c9e5d0935b6d5dfc4983a338c9`
+- `03_Elementor_and_Skills/SKILL.md` — 4,185 bytes — SHA-256 `ec41bafdb7edbb6c00a63d3d63c4f0815096e7bf759af8ade48c7b52aba1e6ec`
+- `03_Elementor_and_Skills/SKILL (1).md` — 3,969 bytes — SHA-256 `6caceee29be615c183605710a86b33d8fa4c6d7b79c5b08b97f677e6d7e07282`
+- `03_Elementor_and_Skills/SKILL (3).md` — 3,080 bytes — SHA-256 `35577c9d8ad6c7819ede11e74dbad49a26129ed1740077173569536fec97feff`
+- `03_Elementor_and_Skills/SKILL (3)(1).md` — 3,080 bytes — SHA-256 `35577c9d8ad6c7819ede11e74dbad49a26129ed1740077173569536fec97feff`
+- `03_Elementor_and_Skills/SKILL (4).md` — 3,745 bytes — SHA-256 `32bd42517b260a3ee1421fedae9d9c2cac2c6dfd365abb18d60b45cebd05a12f`
+- `03_Elementor_and_Skills/SKILL (4)(1).md` — 3,745 bytes — SHA-256 `32bd42517b260a3ee1421fedae9d9c2cac2c6dfd365abb18d60b45cebd05a12f`
+- `04_Design_References/Reference A Desktop Hero design.png` — 326,705 bytes — SHA-256 `6a34e2df2bf5237635ad92cbd3725e51376aff4600a1896be067ffea52e8a647`
+- `04_Design_References/Reference B Mobile Hero design.png` — 97,526 bytes — SHA-256 `afa7f51e8b9b84327926c5820c0a3657974258f744f487ce836a01980e7bcad4`
+- `04_Design_References/stitch_readmehub_website_clone.zip` — 477,393 bytes — SHA-256 `c909202b16384a33723615f7e052ccd2f76095d8bca4206b52f06410463ff8ae`
+- `04_Design_References/image.png` — 71,883 bytes — SHA-256 `63afbd57cf5051be1dfc3aa963ccf9b65bbb984f1f063eed52c2e9fd3bd95114`
+- `04_Design_References/image(1).png` — 152,010 bytes — SHA-256 `3740d7570d644b576d696ba814e266039ae32a17f5ed56ad05ec16659eae8b52`
+- `04_Design_References/image(2).png` — 121,097 bytes — SHA-256 `a5f3860a0d20d0664fc52b3057bf1e36e0410ad3fbe53b215b7b085bfc0c753e`
+- `04_Design_References/image(3).png` — 60,291 bytes — SHA-256 `cb34bd071529be793f96eb8f8ea5da2f3cd7ba5b52e88ede93f520c9ffc56a06`
+- `04_Design_References/image(4).png` — 341,593 bytes — SHA-256 `c0c405f2905ec1c79a5778f922b5a67bd88e11892f2f4ef77ad4690420d959a3`
+- `04_Design_References/image(5).png` — 361,391 bytes — SHA-256 `e47f52bc4989374d394c7fe714275d65ba0fa9c2a1696f8c42b4f4a9c89fd267`
+- `04_Design_References/image(6).png` — 955,482 bytes — SHA-256 `31df6fb38bb0187fd599e5c3e594c0ba816aea020165d05330759296df03001e`
+- `04_Design_References/9cfe2521-a3e5-4f5c-89a2-cfb2c7cb4fb3.png` — 28,148 bytes — SHA-256 `5564eaa0099218a21274584cf46b5f10af6a38faffebff592acbced31b8e3ba1`
+- `04_Design_References/a_clean_high_resolution_modern_digital_illustrat.png` — 1,655,514 bytes — SHA-256 `197395087ecde2beec7c4f7c573f7005583e5d47293cb8e752615eea04a908a9`
+- `04_Design_References/a_clean_modern_full_webpage_mockup_landing_page.png` — 1,758,467 bytes — SHA-256 `e53b9fde6a4616ece1a786dbd4f3d41baa9a863bd66e87671a7c462a3f5a7ff4`
+- `04_Design_References/a_clean_modern_high_resolution_web_ui_screenshot.png` — 1,667,395 bytes — SHA-256 `2515de966854119a3e6f6f237e0666b9a820084abeece1b0a50c95f8cce4617a`
+- `05_Source_Archives/ReadMeHub_Claude_Project_MD_Files.zip` — 11,281 bytes — SHA-256 `383e699bbca8f7c8dad29ebf86f0eb8686ac1d38e267c44f3827dc3fcc63db20`
+- `05_Source_Archives/ReadMeHub_Claude_Project_MD_Files_Main_URL.zip` — 11,271 bytes — SHA-256 `1a816a012f17ceb6e32cc632975449e1ff9ae841e35c89a23f6d5450470d2e78`
+- `05_Source_Archives/files (1).zip` — 90,877 bytes — SHA-256 `da6dbf271dbbe24c6c69835a8e4fcee16220f53b6c71f7e478c53eb83c839672`
+- `05_Source_Archives/files (2).zip` — 12,657 bytes — SHA-256 `e552717665bef5558038daa43ec85aef9ebcb4687a969fde9f599918763b49a8`
+- `05_Source_Archives/website-1e7d1110-c3bf-4e84-99e1-05be4a65fe5c.zip` — 114,153 bytes — SHA-256 `82ad989dced88eecdaf14d8e501df80e2181a133afe248828781b4fbd4814bde`
+- `05_Source_Archives/elementor-native-widget-based-website-builder (2).zip` — 9,638 bytes — SHA-256 `922ee99cf18d93f54d242e63180bec2bff8a0b53fa065e811a8657ec0bae0360`
+- `05_Source_Archives/wp-elementor-skills-toolkit.zip` — 86,688 bytes — SHA-256 `b66658b97436ee001906812e3f9740fe2815f460d75a47b51385378a23ba7496`
+- `05_Source_Archives/stitch_readmehub_website_clone.zip` — 477,393 bytes — SHA-256 `c909202b16384a33723615f7e052ccd2f76095d8bca4206b52f06410463ff8ae`
+- `06_Additional_Project_Files/Pasted text(2).txt` — 50,279 bytes — SHA-256 `0088e9a6c416c6a8da903574c0fdff9315e281c632959ca7540adad8dbd2126d`
+- `06_Additional_Project_Files/Pasted text(3).txt` — 19,138 bytes — SHA-256 `8fd26fc0e0709d84176a8ab072d01c0b03c9190add29465df8252f3ed9400c37`
+- `06_Additional_Project_Files/connector-tools.md` — 3,040 bytes — SHA-256 `47904fdd1b9be4967c956fcaae62ced1b46a935414ed2a2d4a89587b4fc039ec`
+- `06_Additional_Project_Files/connector-tools (1).md` — 3,040 bytes — SHA-256 `47904fdd1b9be4967c956fcaae62ced1b46a935414ed2a2d4a89587b4fc039ec`
+- `06_Additional_Project_Files/connector-tools (2).md` — 4,339 bytes — SHA-256 `b08e67d55cf7aec5e310c60e6d517c59ac7263ad7fc1dbb76f9c93e6c0e0f295`
+- `06_Additional_Project_Files/connector-tools (2)(1).md` — 4,339 bytes — SHA-256 `b08e67d55cf7aec5e310c60e6d517c59ac7263ad7fc1dbb76f9c93e6c0e0f295`
+- `06_Additional_Project_Files/connector-tools (3).md` — 5,062 bytes — SHA-256 `f6a2dbb75c7b468e0b4cdf191466bebd159eaefd6f23d900ec987c93151884e3`
